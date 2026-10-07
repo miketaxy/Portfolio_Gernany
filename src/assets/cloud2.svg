@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.40928mm"
+   height="62.012753mm"
+   viewBox="0 0 110.40928 62.012752"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cloud2.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0334082"
+     inkscape:cx="257.69543"
+     inkscape:cy="84.832942"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#cde2ff;stop-opacity:1;"
+         offset="0.34104052"
+         id="stop1" />
+      <stop
+         style="stop-color:#55f8fd;stop-opacity:1;"
+         offset="0.60982662"
+         id="stop3" />
+      <stop
+         style="stop-color:#3fc4fb;stop-opacity:1;"
+         offset="0.88150287"
+         id="stop2" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="100.65613"
+       cy="87.499054"
+       fx="100.65613"
+       fy="87.499054"
+       r="55.337139"
+       gradientTransform="matrix(1,0,0,0.56271207,0,38.26228)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.451489,-56.492676)">
+    <path
+       id="path19"
+       style="fill:url(#radialGradient2);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.29858,56.492676 a 17.389406,17.389406 0 0 0 -17.389636,17.389119 17.389406,17.389406 0 0 0 1.509985,7.08794 17.297398,17.297398 0 0 0 -16.96744,17.294035 17.297398,17.297398 0 0 0 17.297652,17.29765 17.297398,17.297398 0 0 0 15.572693,-9.76891 25.302044,22.357805 0 0 0 21.322213,10.32082 25.302044,22.357805 0 0 0 17.064073,-5.84978 21.989777,21.989777 0 0 0 17.16278,8.24188 21.989777,21.989777 0 0 0 21.98987,-21.989874 21.989777,21.989777 0 0 0 -12.94701,-20.044255 16.561338,16.561338 0 0 0 0.24959,-2.865458 A 16.561338,16.561338 0 0 0 126.60209,57.04458 16.561338,16.561338 0 0 0 110.04238,73.373299 25.302044,22.357805 0 0 0 99.644047,71.397709 25.302044,22.357805 0 0 0 95.549207,71.692265 17.389406,17.389406 0 0 0 78.29858,56.492676 Z" />
+  </g>
+</svg>

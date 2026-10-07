@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="191.3754mm"
+   height="100.47241mm"
+   viewBox="0 0 191.3754 100.47241"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="cloud3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4378367"
+     inkscape:cx="279.58669"
+     inkscape:cy="267.41563"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient24"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#deffff;stop-opacity:1;"
+         offset="0"
+         id="stop25" />
+      <stop
+         style="stop-color:#93ffff;stop-opacity:1;"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="radialGradient26"
+       cx="112.24897"
+       cy="124.9461"
+       fx="112.24897"
+       fy="124.9461"
+       r="95.687698"
+       gradientTransform="matrix(1,0,0,0.52500172,-0.05750465,59.291679)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.561268,-74.709895)">
+    <path
+       id="rect1"
+       style="fill:url(#radialGradient26);fill-opacity:1;stroke:none;stroke-width:0"
+       d="M 112.92786,74.65239 A 30.914499,23.185873 0 0 0 83.44748,90.857603 27.60223,26.866173 0 0 0 66.188069,84.957188 27.60223,26.866173 0 0 0 38.592337,111.22639 36.618958,24.105947 0 0 0 16.503763,133.3532 a 36.618958,24.105947 0 0 0 34.059419,24.04711 62.565056,23.737919 0 0 0 60.524488,17.7245 62.565056,23.737919 0 0 0 51.04132,-10.01024 42.691452,28.522303 0 0 0 3.05873,0.0734 42.691452,28.522303 0 0 0 42.69145,-28.52229 42.691452,28.522303 0 0 0 -13.56764,-20.85506 33.30669,23.921932 0 0 0 2.52697,-9.13949 33.30669,23.921932 0 0 0 -33.30701,-23.922056 33.30669,23.921932 0 0 0 -22.13663,6.048209 30.914499,23.185873 0 0 0 -28.467,-14.144873 z" />
+    <ellipse
+       style="fill:#54ffff;fill-opacity:1;stroke:none;stroke-width:0"
+       id="path26"
+       cx="94.434875"
+       cy="115.82142"
+       rx="4.7843866"
+       ry="9" />
+    <ellipse
+       style="fill:#54ffff;fill-opacity:1;stroke:none;stroke-width:0"
+       id="path27"
+       cx="128.83829"
+       cy="116.18944"
+       rx="4.6003718"
+       ry="9" />
+    <path
+       id="path28"
+       style="fill:#54ffff;fill-opacity:1;stroke:none;stroke-width:0"
+       d="m 72.979148,127.93492 a 39.64176,23.98842 0 0 0 39.627022,23.32517 39.64176,23.98842 0 0 0 39.56799,-22.52735 41.301182,22.812517 0 0 1 -39.38368,15.94198 41.301182,22.812517 0 0 1 -39.811332,-16.7398 z" />
+    <path
+       id="rect30"
+       style="fill:#54ffff;fill-opacity:1;stroke:none;stroke-width:0"
+       d="m 76.477017,124.39868 a 4.04321,9.8696022 53.690303 0 1 -4.43283,4.19469 4.04321,9.8696022 53.690303 0 1 -2.442339,1.5294 l 0.10908,0.98641 6.906939,-5.43675 z" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect30"
+       id="use32"
+       transform="rotate(90,112.07174,168.15636)"
+       style="fill:#54ffff;fill-opacity:1" />
+    <ellipse
+       style="fill:#54ffff;fill-opacity:1;stroke:none;stroke-width:0"
+       id="path32"
+       cx="109.8568"
+       cy="158.80469"
+       rx="10.856877"
+       ry="13.065056" />
+  </g>
+</svg>
