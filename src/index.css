@@ -18,6 +18,7 @@
   --animate-fade-in-delay-3: fade-in 0.7s ease-out 0.6s forwards;
   --animate-fade-in-delay-4: fade-in 0.7s ease-out 0.8s forwards;
   --animate-meteor: meteor 5s linear infinite;
+  --animate-cloud: cloud 80s linear infinite;
 
   @keyframes float {
     0%,
@@ -57,6 +58,20 @@
     }
     100% {
       transform: rotate(215deg) translateX(-500px);
+      opacity: 0;
+    }
+  }
+  @keyframes cloud {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    10%,
+    90% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateX(100vw);
       opacity: 0;
     }
   }
@@ -181,7 +196,7 @@
 }
 
 @utility cloud {
-  @apply absolute rounded-full top-0 right-6/12 translate-x-1/2 z-2 overflow-hidden;
+  @apply absolute z-3;
 }
 
 #root {
