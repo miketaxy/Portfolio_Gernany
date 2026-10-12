@@ -25,7 +25,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="2.0334082"
-     inkscape:cx="257.69543"
+     inkscape:cx="258.18721"
      inkscape:cy="84.832942"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -39,17 +39,13 @@
        id="linearGradient1"
        inkscape:collect="always">
       <stop
-         style="stop-color:#cde2ff;stop-opacity:1;"
-         offset="0.34104052"
+         style="stop-color:#c6e2ff;stop-opacity:1;"
+         offset="0.24855497"
          id="stop1" />
       <stop
-         style="stop-color:#55f8fd;stop-opacity:1;"
+         style="stop-color:#99f8fd;stop-opacity:1;"
          offset="0.60982662"
          id="stop3" />
-      <stop
-         style="stop-color:#3fc4fb;stop-opacity:1;"
-         offset="0.88150287"
-         id="stop2" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
